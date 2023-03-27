@@ -1,4 +1,4 @@
-This is a React App, wroking directory is \IdeaProjects\cities-front\cities-front, make sure `npm start` is executed from there
+This is a React App, working directory is \IdeaProjects\cities-front\cities-front, make sure `npm start` is executed from there
 
 ### `npm install`
 
